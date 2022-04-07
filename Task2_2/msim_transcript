@@ -1,0 +1,122 @@
+# vsim -gui -l msim_transcript work.tb_top 
+# Start time: 14:59:22 on Apr 06,2022
+# Loading work.tb_top
+# Loading work.top
+# Loading work.clkEnable
+# Loading work.updown_counter
+# ** Error: (vsim-3063) C:/Users/Fabian/Documents/Quartus/Task2_2/top.v(24): Port 'updown' not found in the connected module (1st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_top/DUT/counter File: C:/Users/Fabian/Documents/Quartus/Task2_2/updown_counter.v
+# ** Error: (vsim-3063) C:/Users/Fabian/Documents/Quartus/Task2_2/top.v(24): Port 'clock' not found in the connected module (2nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_top/DUT/counter File: C:/Users/Fabian/Documents/Quartus/Task2_2/updown_counter.v
+# Error loading design
+# End time: 14:59:22 on Apr 06,2022, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vsim -gui -l msim_transcript work.tb_top
+# vsim -gui -l msim_transcript work.tb_top 
+# Start time: 15:00:46 on Apr 06,2022
+# Loading work.tb_top
+# Loading work.top
+# Loading work.clkEnable
+# Loading work.updown_counter
+# ** Error: (vsim-3063) C:/Users/Fabian/Documents/Quartus/Task2_2/top.v(24): Port 'updown' not found in the connected module (1st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_top/DUT/counter File: C:/Users/Fabian/Documents/Quartus/Task2_2/updown_counter.v
+# ** Error: (vsim-3063) C:/Users/Fabian/Documents/Quartus/Task2_2/top.v(24): Port 'clock' not found in the connected module (2nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_top/DUT/counter File: C:/Users/Fabian/Documents/Quartus/Task2_2/updown_counter.v
+# Error loading design
+# End time: 15:00:46 on Apr 06,2022, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# Compile of updown_counter.v was successful.
+# Compile of clkEnable.v was successful.
+# Compile of counter_bus_mux.v was successful.
+# Compile of counter_bus_mux_bb.v was successful.
+# Compile of PLL.v was successful.
+# Compile of PLL_bb.v was successful.
+# Compile of simple_counter.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of top.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui -l msim_transcript work.tb_top
+# vsim -gui -l msim_transcript work.tb_top 
+# Start time: 15:01:46 on Apr 06,2022
+# Loading work.tb_top
+# Loading work.top
+# Loading work.clkEnable
+# Loading work.updown_counter
+# ** Error: (vsim-3063) C:/Users/Fabian/Documents/Quartus/Task2_2/top.v(24): Port 'clock' not found in the connected module (2nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_top/DUT/counter File: C:/Users/Fabian/Documents/Quartus/Task2_2/updown_counter.v
+# Error loading design
+# End time: 15:01:47 on Apr 06,2022, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+# Compile of updown_counter.v was successful.
+# Compile of clkEnable.v was successful.
+# Compile of counter_bus_mux.v was successful.
+# Compile of counter_bus_mux_bb.v was successful.
+# Compile of PLL.v was successful.
+# Compile of PLL_bb.v was successful.
+# Compile of simple_counter.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of top.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui -l msim_transcript work.tb_top
+# vsim -gui -l msim_transcript work.tb_top 
+# Start time: 15:02:30 on Apr 06,2022
+# Loading work.tb_top
+# Loading work.top
+# Loading work.clkEnable
+# Loading work.updown_counter
+# Note :: PA Debug File '' not found. PA Dataflow Coloring not enabled.
+add wave -position insertpoint  \
+sim:/tb_top/clock
+add wave -position insertpoint  \
+sim:/tb_top/LEDs
+run
+#                    0 << Starting the Simulation >>
+run
+add wave -position insertpoint sim:/tb_top/DUT/enb/*
+add wave -position insertpoint  \
+sim:/tb_top/DUT/enb/enable_out
+run
+add wave -position insertpoint  \
+sim:/tb_top/DUT/enb/enable_out
+run
+run
+run -continue
+run -all
+run
+restart
+run
+#                    0 << Starting the Simulation >>
+# Compile of updown_counter.v was successful.
+# Compile of clkEnable.v was successful.
+# Compile of counter_bus_mux.v was successful.
+# Compile of counter_bus_mux_bb.v was successful.
+# Compile of PLL.v was successful.
+# Compile of PLL_bb.v was successful.
+# Compile of simple_counter.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of top.v was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# Loading work.tb_top
+# Loading work.top
+# Loading work.clkEnable
+# Loading work.updown_counter
+run
+#                    0 << Starting the Simulation >>
+# BKMARK_ERROR: Unknown client: .main_pane.source
+# invalid command name ""
+add wave -position insertpoint  \
+sim:/tb_top/DUT/reset
+add wave -position insertpoint  \
+sim:/tb_top/rst
+add wave -position insertpoint  \
+sim:/tb_top/udc
+add wave -position insertpoint  \
+sim:/tb_top/DUT/enable
+add wave -position insertpoint  \
+sim:/tb_top/DUT/count
+restart
+run
+#                    0 << Starting the Simulation >>
+# End time: 19:56:27 on Apr 06,2022, Elapsed time: 4:53:57
+# Errors: 2, Warnings: 0

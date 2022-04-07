@@ -1,0 +1,11 @@
+# Compile of updown_counter.v was successful.
+# Compile of clkEnable.v was successful.
+# Compile of counter_bus_mux.v was successful.
+# Compile of counter_bus_mux_bb.v was successful.
+# Compile of PLL.v was successful.
+# Compile of PLL_bb.v was successful.
+# Compile of simple_counter.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of top.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui -l msim_transcript work.tb_top

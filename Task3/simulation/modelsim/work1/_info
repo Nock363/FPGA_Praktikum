@@ -1,0 +1,139 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Fabian/Documents/Quartus/Task3/simulation/modelsim
+vclkEnable
+!s110 1649374708
+!i10b 1
+!s100 =43l9AB_CmPgPke:;ogF80
+IYVk>X6k<1ab1@ko;T7nF;3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1649250572
+8C:/Users/Fabian/Documents/Quartus/Task3/clkEnable.v
+FC:/Users/Fabian/Documents/Quartus/Task3/clkEnable.v
+L0 6
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1649374708.000000
+!s107 C:/Users/Fabian/Documents/Quartus/Task3/clkEnable.v|
+!s90 -reportprogress|300|-work|work1|-stats=none|C:/Users/Fabian/Documents/Quartus/Task3/clkEnable.v|
+!i113 1
+Z4 o-work work1
+Z5 tCvgOpt 0
+nclk@enable
+vtb_top
+Z6 !s110 1649374709
+!i10b 1
+!s100 LCd;`9^gizl<WBRF1i:R^1
+IlX=?_UgHBKUMT1ji`g=260
+R1
+R0
+w1580742459
+8C:/Users/Fabian/Documents/Quartus/Task3/tb_top.v
+FC:/Users/Fabian/Documents/Quartus/Task3/tb_top.v
+L0 4
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:/Users/Fabian/Documents/Quartus/Task3/tb_top.v|
+!s90 -reportprogress|300|-work|work1|-stats=none|C:/Users/Fabian/Documents/Quartus/Task3/tb_top.v|
+!i113 1
+R4
+R5
+vtimeAndDateClock
+R6
+!i10b 1
+!s100 =ZdCe2WnUT^A`1TU4bgMK2
+IlJhknADdY2@>M6M?8VZPA0
+R1
+R0
+w1649374595
+8C:/Users/Fabian/Documents/Quartus/Task3/timeAndDateClock.v
+FC:/Users/Fabian/Documents/Quartus/Task3/timeAndDateClock.v
+L0 18
+R2
+r1
+!s85 0
+31
+Z7 !s108 1649374709.000000
+!s107 C:/Users/Fabian/Documents/Quartus/Task3/timeAndDateClock.v|
+!s90 -reportprogress|300|-work|work1|-stats=none|C:/Users/Fabian/Documents/Quartus/Task3/timeAndDateClock.v|
+!i113 1
+R4
+R5
+ntime@and@date@clock
+vtimeAndDateClock_tb
+R6
+!i10b 1
+!s100 ^A[??I`2Q>OZKcz>OUjkJ2
+I=mL]19Ud_ckESHaCelYJz1
+R1
+R0
+w1649374553
+8C:/Users/Fabian/Documents/Quartus/Task3/timeAndDateClock_tb.v
+FC:/Users/Fabian/Documents/Quartus/Task3/timeAndDateClock_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Fabian/Documents/Quartus/Task3/timeAndDateClock_tb.v|
+!s90 -reportprogress|300|-work|work1|-stats=none|C:/Users/Fabian/Documents/Quartus/Task3/timeAndDateClock_tb.v|
+!i113 1
+R4
+R5
+ntime@and@date@clock_tb
+vtop
+R6
+!i10b 1
+!s100 PT;0d48hT4L@C4bV7b:Y^1
+Id8BNNghz0CUW2I<?mh4@]0
+R1
+R0
+w1649250135
+8C:/Users/Fabian/Documents/Quartus/Task3/top.v
+FC:/Users/Fabian/Documents/Quartus/Task3/top.v
+L0 4
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Fabian/Documents/Quartus/Task3/top.v|
+!s90 -reportprogress|300|-work|work1|-stats=none|C:/Users/Fabian/Documents/Quartus/Task3/top.v|
+!i113 1
+R4
+R5
+vupdown_counter
+R6
+!i10b 1
+!s100 3nkO<gc9FJoJkYOE`8Vc91
+IR3_XJYb^hJ4M0L6FGNU[71
+R1
+R0
+w1649173796
+8C:/Users/Fabian/Documents/Quartus/Task3/updown_counter.v
+FC:/Users/Fabian/Documents/Quartus/Task3/updown_counter.v
+L0 5
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Fabian/Documents/Quartus/Task3/updown_counter.v|
+!s90 -reportprogress|300|-work|work1|-stats=none|C:/Users/Fabian/Documents/Quartus/Task3/updown_counter.v|
+!i113 1
+R4
+R5

@@ -1,0 +1,101 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Fabian/Documents/Quartus/Task2_2/simulation/modelsim
+vclkEnable
+Z1 !s110 1649339268
+!i10b 1
+!s100 =43l9AB_CmPgPke:;ogF80
+I>@FXP:E6]^hnlLE?<YXJY0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1649250572
+8C:/Users/Fabian/Documents/Quartus/Task2_2/clkEnable.v
+FC:/Users/Fabian/Documents/Quartus/Task2_2/clkEnable.v
+L0 6
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1649339268.000000
+!s107 C:/Users/Fabian/Documents/Quartus/Task2_2/clkEnable.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Fabian/Documents/Quartus/Task2_2|C:/Users/Fabian/Documents/Quartus/Task2_2/clkEnable.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/Fabian/Documents/Quartus/Task2_2
+Z7 tCvgOpt 0
+nclk@enable
+vPLL
+R1
+!i10b 1
+!s100 jiQm4H>L_kQN7e1TT_<PV2
+I:iX:DzHl;6UnkUJe4UmFL2
+R2
+R0
+w1648833380
+8C:/Users/Fabian/Documents/Quartus/Task2_2/PLL.v
+FC:/Users/Fabian/Documents/Quartus/Task2_2/PLL.v
+L0 40
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Fabian/Documents/Quartus/Task2_2/PLL.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Fabian/Documents/Quartus/Task2_2|C:/Users/Fabian/Documents/Quartus/Task2_2/PLL.v|
+!i113 1
+R5
+R6
+R7
+n@p@l@l
+vPLL_altpll
+R1
+!i10b 1
+!s100 U::e_fVSgBmQ_fIl4Z>NN1
+IcP?<^I^kn1O_KQUgQWE`51
+R2
+R0
+w1649167361
+8C:/Users/Fabian/Documents/Quartus/Task2_2/db/pll_altpll.v
+FC:/Users/Fabian/Documents/Quartus/Task2_2/db/pll_altpll.v
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Fabian/Documents/Quartus/Task2_2/db/pll_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Fabian/Documents/Quartus/Task2_2/db|C:/Users/Fabian/Documents/Quartus/Task2_2/db/pll_altpll.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+C:/Users/Fabian/Documents/Quartus/Task2_2/db
+R7
+n@p@l@l_altpll
+vupdown_counter
+R1
+!i10b 1
+!s100 3nkO<gc9FJoJkYOE`8Vc91
+Ic8Z5SDNhWL9N0Q[kU5JG:1
+R2
+R0
+w1649173796
+8C:/Users/Fabian/Documents/Quartus/Task2_2/updown_counter.v
+FC:/Users/Fabian/Documents/Quartus/Task2_2/updown_counter.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Fabian/Documents/Quartus/Task2_2/updown_counter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Fabian/Documents/Quartus/Task2_2|C:/Users/Fabian/Documents/Quartus/Task2_2/updown_counter.v|
+!i113 1
+R5
+R6
+R7

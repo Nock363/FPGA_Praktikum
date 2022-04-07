@@ -1,0 +1,64 @@
+C:/Users/Fabian/Documents/Quartus/Task2_test/PLL_bb.v {1 {vlog -work work -stats=none C:/Users/Fabian/Documents/Quartus/Task2_test/PLL_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PLL
+
+Top level modules:
+	PLL
+
+} {} {}} C:/Users/Fabian/Documents/Quartus/Task2_test/top.v {1 {vlog -work work -stats=none C:/Users/Fabian/Documents/Quartus/Task2_test/top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/Fabian/Documents/Quartus/Task2_test/updown_counter.v {1 {vlog -work work -stats=none C:/Users/Fabian/Documents/Quartus/Task2_test/updown_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module updown_counter
+
+Top level modules:
+	updown_counter
+
+} {} {}} C:/Users/Fabian/Documents/Quartus/Task2_test/PLL.v {1 {vlog -work work -stats=none C:/Users/Fabian/Documents/Quartus/Task2_test/PLL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PLL
+
+Top level modules:
+	PLL
+
+} {} {}} C:/Users/Fabian/Documents/Quartus/Task2_test/tb_top.v {1 {vlog -work work -stats=none C:/Users/Fabian/Documents/Quartus/Task2_test/tb_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_top
+
+Top level modules:
+	tb_top
+
+} {} {}} C:/Users/Fabian/Documents/Quartus/Task2_test/clkEnable.v {1 {vlog -work work -stats=none C:/Users/Fabian/Documents/Quartus/Task2_test/clkEnable.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clkEnable
+
+Top level modules:
+	clkEnable
+
+} {} {}} C:/Users/Fabian/Documents/Quartus/Task2_test/counter_bus_mux_bb.v {1 {vlog -work work -stats=none C:/Users/Fabian/Documents/Quartus/Task2_test/counter_bus_mux_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module counter_bus_mux
+
+Top level modules:
+	counter_bus_mux
+
+} {} {}} C:/Users/Fabian/Documents/Quartus/Task2_test/simple_counter.v {1 {vlog -work work -stats=none C:/Users/Fabian/Documents/Quartus/Task2_test/simple_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module simple_counter
+
+Top level modules:
+	simple_counter
+
+} {} {}} C:/Users/Fabian/Documents/Quartus/Task2_test/counter_bus_mux.v {1 {vlog -work work -stats=none C:/Users/Fabian/Documents/Quartus/Task2_test/counter_bus_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module counter_bus_mux
+
+Top level modules:
+	counter_bus_mux
+
+} {} {}}

@@ -1,0 +1,676 @@
+# vsim -gui -l msim_transcript work1.timeAndDateClock_tb 
+# Start time: 16:38:44 on Apr 07,2022
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+vsim -gui -l msim_transcript work1.tb_top
+# End time: 16:39:13 on Apr 07,2022, Elapsed time: 0:00:29
+# Errors: 0, Warnings: 0
+# vsim -gui -l msim_transcript work1.tb_top 
+# Start time: 16:39:13 on Apr 07,2022
+# Loading work1.tb_top
+# Loading work1.top
+# Loading work1.clkEnable
+# Loading work1.updown_counter
+add wave -position insertpoint sim:/tb_top/DUT/counter/*
+run
+#                    0 << Starting the Simulation >>
+add wave -position insertpoint sim:/tb_top/DUT/enb/*
+restart
+run
+#                    0 << Starting the Simulation >>
+# Load canceled
+# Break key hit
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui -l msim_transcript work1.timeAndDateClock_tb
+# End time: 16:41:49 on Apr 07,2022, Elapsed time: 0:02:36
+# Errors: 1, Warnings: 0
+# vsim -gui -l msim_transcript work1.timeAndDateClock_tb 
+# Start time: 16:41:49 on Apr 07,2022
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+add wave -position insertpoint sim:/timeAndDateClock_tb/DUT/*
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui -l msim_transcript work1.timeAndDateClock_tb
+# End time: 16:48:12 on Apr 07,2022, Elapsed time: 0:06:23
+# Errors: 0, Warnings: 0
+# vsim -gui -l msim_transcript work1.timeAndDateClock_tb 
+# Start time: 16:48:12 on Apr 07,2022
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+add wave -position insertpoint sim:/timeAndDateClock_tb/DUT/*
+run
+#                    0 << Starting the Simulation >>
+restart
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v failed with 1 errors.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 1 failed with 1 error.
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v failed with 2 errors.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 1 failed with 2 errors.
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v failed with 2 errors.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 1 failed with 2 errors.
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v failed with 1 errors.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 1 failed with 1 error.
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v failed with 2 errors.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 1 failed with 2 errors.
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v failed with 2 errors.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 1 failed with 2 errors.
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+run
+restart
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+run
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+restart
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v failed with 1 errors.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 1 failed with 1 error.
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+vsim -gui -l msim_transcript work1.timeAndDateClock_tb
+# End time: 01:19:36 on Apr 08,2022, Elapsed time: 8:31:24
+# Errors: 0, Warnings: 0
+# vsim -gui -l msim_transcript work1.timeAndDateClock_tb 
+# Start time: 01:19:36 on Apr 08,2022
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+add wave -position insertpoint sim:/timeAndDateClock_tb/DUT/*
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+add wave -position insertpoint sim:/timeAndDateClock_tb/DUT/*
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+run
+#                    0 << Starting the Simulation >>
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui -l msim_transcript work1.timeAndDateClock_tb
+# End time: 01:39:01 on Apr 08,2022, Elapsed time: 0:19:25
+# Errors: 0, Warnings: 0
+# vsim -gui -l msim_transcript work1.timeAndDateClock_tb 
+# Start time: 01:39:01 on Apr 08,2022
+# Loading work1.timeAndDateClock_tb
+# Loading work1.timeAndDateClock
+add wave -position insertpoint sim:/timeAndDateClock_tb/DUT/*
+run
+#                    0 << Starting the Simulation >>
+# End time: 01:44:07 on Apr 08,2022, Elapsed time: 0:05:06
+# Errors: 0, Warnings: 0

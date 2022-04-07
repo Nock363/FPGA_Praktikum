@@ -1,0 +1,14 @@
+# vsim -gui -l msim_transcript work.tb_top 
+# Start time: 16:17:22 on Apr 07,2022
+# Loading work.tb_top
+# Loading work.top
+# Loading work.clkEnable
+# Loading work.updown_counter
+add wave -position insertpoint  \
+sim:/tb_top/DUT/clock_5
+add wave -position insertpoint  \
+sim:/tb_top/DUT/enable
+run
+#                    0 << Starting the Simulation >>
+# End time: 16:17:51 on Apr 07,2022, Elapsed time: 0:00:29
+# Errors: 0, Warnings: 0

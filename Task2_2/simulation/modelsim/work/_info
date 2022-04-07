@@ -1,0 +1,159 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Fabian/Documents/Quartus/Task2_2/simulation/modelsim
+vclkEnable
+Z1 !s110 1649339330
+!i10b 1
+!s100 =43l9AB_CmPgPke:;ogF80
+I<>XehgV>PDZjE2nmWNcOA0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1649250572
+8C:/Users/Fabian/Documents/Quartus/Task2_2/clkEnable.v
+FC:/Users/Fabian/Documents/Quartus/Task2_2/clkEnable.v
+L0 6
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1649339330.000000
+!s107 C:/Users/Fabian/Documents/Quartus/Task2_2/clkEnable.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fabian/Documents/Quartus/Task2_2/clkEnable.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+nclk@enable
+vcounter_bus_mux
+R1
+!i10b 1
+!s100 aDZn@7FeZoTJ=bl5KDD4D1
+Iz_K>mBBa:0nUf1S]8ET`51
+R2
+R0
+w1648901058
+8C:/Users/Fabian/Documents/Quartus/Task2_2/counter_bus_mux_bb.v
+FC:/Users/Fabian/Documents/Quartus/Task2_2/counter_bus_mux_bb.v
+Z7 L0 35
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Fabian/Documents/Quartus/Task2_2/counter_bus_mux_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fabian/Documents/Quartus/Task2_2/counter_bus_mux_bb.v|
+!i113 1
+R5
+R6
+vPLL
+R1
+!i10b 1
+!s100 >^3k7zcHX4TmXb45><8bX3
+IUQ=LaSnG<f8RYQkh4bh?R3
+R2
+R0
+w1648833381
+8C:/Users/Fabian/Documents/Quartus/Task2_2/PLL_bb.v
+FC:/Users/Fabian/Documents/Quartus/Task2_2/PLL_bb.v
+R7
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Fabian/Documents/Quartus/Task2_2/PLL_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fabian/Documents/Quartus/Task2_2/PLL_bb.v|
+!i113 1
+R5
+R6
+n@p@l@l
+vsimple_counter
+R1
+!i10b 1
+!s100 nGFPRzCa[jQ8j^jRnB__N2
+I8H8Jn?aL?KXgH;1:GK>W11
+R2
+R0
+w1648831990
+8C:/Users/Fabian/Documents/Quartus/Task2_2/simple_counter.v
+FC:/Users/Fabian/Documents/Quartus/Task2_2/simple_counter.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Fabian/Documents/Quartus/Task2_2/simple_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fabian/Documents/Quartus/Task2_2/simple_counter.v|
+!i113 1
+R5
+R6
+vtb_top
+R1
+!i10b 1
+!s100 LCd;`9^gizl<WBRF1i:R^1
+IPRm7`0m3Pjz6];`K08iZ[3
+R2
+R0
+w1580742459
+8C:/Users/Fabian/Documents/Quartus/Task2_2/tb_top.v
+FC:/Users/Fabian/Documents/Quartus/Task2_2/tb_top.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Fabian/Documents/Quartus/Task2_2/tb_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fabian/Documents/Quartus/Task2_2/tb_top.v|
+!i113 1
+R5
+R6
+vtop
+R1
+!i10b 1
+!s100 PT;0d48hT4L@C4bV7b:Y^1
+I04o@nQgHD;6cWiOZ5cdKE1
+R2
+R0
+w1649250135
+8C:/Users/Fabian/Documents/Quartus/Task2_2/top.v
+FC:/Users/Fabian/Documents/Quartus/Task2_2/top.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Fabian/Documents/Quartus/Task2_2/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fabian/Documents/Quartus/Task2_2/top.v|
+!i113 1
+R5
+R6
+vupdown_counter
+R1
+!i10b 1
+!s100 3nkO<gc9FJoJkYOE`8Vc91
+IKDmNUl7=B>hj?lMU=;O8X1
+R2
+R0
+w1649173796
+8C:/Users/Fabian/Documents/Quartus/Task2_2/updown_counter.v
+FC:/Users/Fabian/Documents/Quartus/Task2_2/updown_counter.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Fabian/Documents/Quartus/Task2_2/updown_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fabian/Documents/Quartus/Task2_2/updown_counter.v|
+!i113 1
+R5
+R6

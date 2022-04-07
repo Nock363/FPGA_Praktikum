@@ -1,0 +1,8 @@
+# Compile of clkEnable.v was successful.
+# Compile of tb_top.v was successful.
+# Compile of timeAndDateClock.v was successful.
+# Compile of timeAndDateClock_tb.v was successful.
+# Compile of top.v was successful.
+# Compile of updown_counter.v was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui -l msim_transcript work1.timeAndDateClock_tb

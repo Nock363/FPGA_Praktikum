@@ -1,0 +1,22 @@
+C:/Users/Fabian/Documents/Quartus/Task3/timeAndDateClock_tb.v {1 {vlog -work work -stats=none C:/Users/Fabian/Documents/Quartus/Task3/timeAndDateClock_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module timeAndDateClock_tb
+
+Top level modules:
+	timeAndDateClock_tb
+
+} {} {}} C:/Users/Fabian/Documents/Quartus/Task3/top.v {1 {vlog -work work -stats=none C:/Users/Fabian/Documents/Quartus/Task3/top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/Fabian/Documents/Quartus/Task3/timeAndDateClock.v {1 {vlog -work work -stats=none C:/Users/Fabian/Documents/Quartus/Task3/timeAndDateClock.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module timeAndDateClock
+
+Top level modules:
+	timeAndDateClock
+
+} {} {}}
